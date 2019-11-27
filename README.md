@@ -1,0 +1,1 @@
+This application use MySQL, HTML5, CSS, JavaScript, PHP 
